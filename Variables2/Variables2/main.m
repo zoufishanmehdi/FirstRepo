@@ -17,6 +17,7 @@ int main(int argc, const char * argv[]) {
         char d = b + g;
         NSLog(@"g=%c, b=%c, d=%c", d, b, d);
         
+        int i = 0; 
         float a = .23454;
         char c = 'a';
         int f = 35;
